@@ -1,7 +1,10 @@
-RE:621
-================
 
-## e621, Reimagined
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bitWolfy/re621/master/assets/icon128.png">
+  <br>
+  <h1 align="center">e621, Reimagined</h1>
+</p>
+
 
 RE621 is a comprehensive project created to improve the basic user experience while browsing e621.net.
 It consists of several different modules that enhance the entire site, top to bottom - literally.
